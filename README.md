@@ -9,7 +9,7 @@ Sdk for creating atomic swaps through 1inch
 
 # Installation
 
-`npm install @1inch/cross-chain-sdk`
+`npm install @nikhil0341/cross-chain-sdk`
 
 # Setup
 ```typescript
@@ -125,7 +125,7 @@ import {
     PresetEnum,  
     PrivateKeyProviderConnector,  
     SDK  
-} from '@1inch/cross-chain-sdk'  
+} from '@nikhil0341/cross-chain-sdk'  
 import Web3 from 'web3'  
 import {randomBytes} from 'node:crypto'  
   

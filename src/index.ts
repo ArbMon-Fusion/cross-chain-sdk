@@ -26,7 +26,7 @@ export {
     WsProviderConnector,
     PingRpcEvent,
     GetAllowMethodsRpcEvent
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 export * from './cross-chain-order'
 export * from './escrow-factory'
 export {SupportedChains, SupportedChain} from './chains'

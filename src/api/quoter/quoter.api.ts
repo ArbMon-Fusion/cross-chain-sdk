@@ -1,4 +1,4 @@
-import {HttpProviderConnector} from '@1inch/fusion-sdk'
+import {HttpProviderConnector} from '@nikhil0341/fusion-sdk'
 import {QuoterRequest} from './quoter.request'
 import {QuoterApiConfig, QuoterResponse} from './types'
 import {Quote} from './quote'

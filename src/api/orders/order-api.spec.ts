@@ -1,4 +1,4 @@
-import {HttpProviderConnector, NetworkEnum} from '@1inch/fusion-sdk'
+import {HttpProviderConnector, NetworkEnum} from '@nikhil0341/fusion-sdk'
 import {
     ActiveOrdersResponse,
     EscrowEventAction,

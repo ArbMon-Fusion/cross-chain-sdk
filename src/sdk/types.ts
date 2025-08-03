@@ -2,7 +2,7 @@ import {
     BlockchainProviderConnector,
     HttpProviderConnector,
     LimitOrderV4Struct
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import {CustomPreset, PresetEnum} from '../api'
 import {CrossChainOrder, HashLock} from '../cross-chain-order'
 import {SupportedChain} from '../chains'

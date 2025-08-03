@@ -7,7 +7,7 @@ import {
     OrderInvalidEvent,
     PingRpcEvent,
     WebsocketClient
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import {WebSocketApi} from './ws-api'
 import {
     EventType,

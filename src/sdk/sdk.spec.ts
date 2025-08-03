@@ -3,7 +3,7 @@ import {
     HttpProviderConnector,
     Web3Like,
     Web3ProviderConnector
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import {SDK} from './sdk'
 
 function createHttpProviderFake<T>(mock: T): HttpProviderConnector {

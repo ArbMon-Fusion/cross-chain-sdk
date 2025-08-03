@@ -1,4 +1,4 @@
-import {AxiosProviderConnector} from '@1inch/fusion-sdk'
+import {AxiosProviderConnector} from '@nikhil0341/fusion-sdk'
 import {FusionApiConfig} from './types'
 import {
     QuoterApi,

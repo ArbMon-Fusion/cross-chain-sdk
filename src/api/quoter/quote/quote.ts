@@ -4,7 +4,7 @@ import {
     AuctionWhitelistItem,
     bpsToRatioFormat,
     randBigInt
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import {CrossChainOrderParamsData} from './types'
 import {Cost, PresetEnum, QuoterResponse, TimeLocksRaw} from '../types'
 import {Preset} from '../preset'

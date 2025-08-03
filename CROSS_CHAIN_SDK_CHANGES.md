@@ -113,7 +113,7 @@ With these changes, the SDK now supports:
 - Integration with existing supported networks
 
 ## Next Steps
-1. Update `@1inch/fusion-sdk` dependency to include the new NetworkEnum values
+1. Update `@nikhil0341/fusion-sdk` dependency to include the new NetworkEnum values
 2. Test cross-chain functionality between the new networks
 3. Verify all contract addresses are correct and functional
 4. Add resolver and limit order protocol configurations if needed

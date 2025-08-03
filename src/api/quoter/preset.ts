@@ -1,4 +1,4 @@
-import {Address, AuctionDetails} from '@1inch/fusion-sdk'
+import {Address, AuctionDetails} from '@nikhil0341/fusion-sdk'
 import {AuctionPoint, PresetData} from './types'
 
 export class Preset {

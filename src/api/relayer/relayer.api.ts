@@ -1,4 +1,4 @@
-import {HttpProviderConnector} from '@1inch/fusion-sdk'
+import {HttpProviderConnector} from '@nikhil0341/fusion-sdk'
 import {RelayerRequest} from './relayer.request'
 import {RelayerApiConfig} from './types'
 

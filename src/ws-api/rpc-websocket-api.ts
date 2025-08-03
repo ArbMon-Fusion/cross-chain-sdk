@@ -3,7 +3,7 @@ import {
     OnGetAllowedMethodsCb,
     OnPongCb,
     WsProviderConnector
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import {OnGetSecretsCb, RpcEventType, RpcMethod} from './types'
 import {PaginationParams, PaginationRequest} from '../api/pagination'
 

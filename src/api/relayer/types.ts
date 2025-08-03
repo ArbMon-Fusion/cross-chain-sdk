@@ -1,4 +1,4 @@
-import {LimitOrderV4Struct} from '@1inch/fusion-sdk'
+import {LimitOrderV4Struct} from '@nikhil0341/fusion-sdk'
 import {SupportedChain} from '../../chains'
 
 export type RelayerRequestParams = {

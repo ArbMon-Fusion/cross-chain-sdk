@@ -1,7 +1,7 @@
 # Fusion SDK Changes Required for Arbitrum Sepolia & Monad Support
 
 ## Overview
-The `@1inch/fusion-sdk` package **MUST** be modified to add support for Arbitrum Sepolia and Monad networks. These networks are not currently defined in the `NetworkEnum`.
+The `@nikhil0341/fusion-sdk` package **MUST** be modified to add support for Arbitrum Sepolia and Monad networks. These networks are not currently defined in the `NetworkEnum`.
 
 ## Required Changes
 
@@ -96,7 +96,7 @@ Update your cross-chain-sdk's `package.json`:
 ```json
 {
   "dependencies": {
-    "@1inch/fusion-sdk": "git+https://github.com/yourusername/fusion-sdk.git#your-branch"
+    "@nikhil0341/fusion-sdk": "git+https://github.com/yourusername/fusion-sdk.git#your-branch"
   }
 }
 ```

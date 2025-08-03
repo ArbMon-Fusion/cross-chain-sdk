@@ -1,4 +1,4 @@
-import {LimitOrderV4Struct} from '@1inch/fusion-sdk'
+import {LimitOrderV4Struct} from '@nikhil0341/fusion-sdk'
 import {PaginationOutput} from '../types'
 import {AuctionPoint} from '../quoter'
 import {PaginationParams} from '../pagination'

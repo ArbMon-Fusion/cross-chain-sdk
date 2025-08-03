@@ -1,4 +1,4 @@
-import {Address} from '@1inch/fusion-sdk'
+import {Address} from '@nikhil0341/fusion-sdk'
 import {PresetEnum} from '../types'
 import {HashLock} from '../../../cross-chain-order'
 

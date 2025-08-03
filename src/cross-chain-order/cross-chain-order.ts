@@ -11,7 +11,7 @@ import {
     SettlementPostInteractionData,
     now,
     NetworkEnum
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import assert from 'assert'
 import {CrossChainOrderInfo, Details, EscrowParams, Extra} from './types'
 import {InnerOrder} from './inner-order'

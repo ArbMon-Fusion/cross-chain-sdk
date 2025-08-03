@@ -1,4 +1,4 @@
-import {isValidAmount} from '@1inch/fusion-sdk'
+import {isValidAmount} from '@nikhil0341/fusion-sdk'
 import {
     CustomPreset,
     CustomPresetPoint,

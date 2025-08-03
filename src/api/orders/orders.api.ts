@@ -1,4 +1,4 @@
-import {HttpProviderConnector} from '@1inch/fusion-sdk'
+import {HttpProviderConnector} from '@nikhil0341/fusion-sdk'
 import {
     ActiveOrdersRequest,
     OrdersByMakerRequest,

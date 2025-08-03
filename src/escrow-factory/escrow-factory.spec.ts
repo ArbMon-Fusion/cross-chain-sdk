@@ -1,4 +1,4 @@
-import {Address, NetworkEnum} from '@1inch/fusion-sdk'
+import {Address, NetworkEnum} from '@nikhil0341/fusion-sdk'
 import {keccak256} from 'ethers'
 import {EscrowFactoryFacade} from './escrow-factory-facade'
 import {EscrowFactoryZksync} from './escrow-factory-zksync'

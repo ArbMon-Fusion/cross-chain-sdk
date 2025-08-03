@@ -6,7 +6,7 @@ import {
     OrderFilledPartiallyEvent,
     OrderInvalidEvent,
     PingRpcEvent
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import {Jsonify} from 'type-fest'
 import {PaginationOutput} from '../api/types'
 import {ActiveOrder, OrderType, PublicSecret} from '../api/orders'

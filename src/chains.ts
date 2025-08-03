@@ -1,4 +1,4 @@
-import {NetworkEnum} from '@1inch/fusion-sdk'
+import {NetworkEnum} from '@nikhil0341/fusion-sdk'
 import {TupleToUnion} from './type-utils'
 
 export const SupportedChains = [

@@ -1,5 +1,5 @@
 import {UINT_32_MAX} from '@1inch/byte-utils'
-import {now} from '@1inch/fusion-sdk'
+import {now} from '@nikhil0341/fusion-sdk'
 import {TimeLocks} from './time-locks'
 import {SrcStage} from './src-time-locks'
 import {DstStage} from './dst-time-locks'

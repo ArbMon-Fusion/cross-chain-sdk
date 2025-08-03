@@ -6,7 +6,7 @@ import {
     SettlementPostInteractionData,
     AuctionDetails,
     NetworkEnum
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import {AbiCoder} from 'ethers'
 import {BitMask, BN, trim0x, UINT_128_MAX} from '@1inch/byte-utils'
 import assert from 'assert'

@@ -3,7 +3,7 @@ import {
     OnOrderFilledPartiallyCb,
     OnOrderInvalidCb,
     WsProviderConnector
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import {orderEvents} from './constants'
 import {
     EventType,

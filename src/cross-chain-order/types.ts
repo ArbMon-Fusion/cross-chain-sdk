@@ -3,7 +3,7 @@ import {
     AuctionDetails,
     AuctionWhitelistItem,
     IntegratorFee
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import {HashLock} from './hash-lock'
 import {TimeLocks} from './time-locks'
 import {SupportedChain} from '../chains'

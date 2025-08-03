@@ -1,4 +1,4 @@
-import {FusionOrder, OrderInfoData} from '@1inch/fusion-sdk'
+import {FusionOrder, OrderInfoData} from '@nikhil0341/fusion-sdk'
 import {EscrowExtension} from './escrow-extension'
 import {Extra} from './types'
 

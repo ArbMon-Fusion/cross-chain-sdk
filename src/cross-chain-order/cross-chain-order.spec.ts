@@ -4,7 +4,7 @@ import {
     AuctionDetails,
     now,
     Extension
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import {CrossChainOrder} from './cross-chain-order'
 import {CrossChainOrderInfo, EscrowParams} from './types'
 import {HashLock} from './hash-lock'

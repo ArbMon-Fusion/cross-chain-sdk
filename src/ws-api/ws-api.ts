@@ -6,7 +6,7 @@ import {
     WsApiConfigWithNetwork,
     WsProviderConnector,
     WsApiConfig
-} from '@1inch/fusion-sdk'
+} from '@nikhil0341/fusion-sdk'
 import {ActiveOrdersWebSocketApi} from './active-websocket-orders-api'
 import {RpcWebsocketApi} from './rpc-websocket-api'
 import {WebSocketEvent} from './types'

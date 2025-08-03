@@ -1,4 +1,4 @@
-import {Address} from '@1inch/fusion-sdk'
+import {Address} from '@nikhil0341/fusion-sdk'
 import {Immutables} from './immutables'
 import {TimeLocks} from '../cross-chain-order/time-locks/time-locks'
 import {HashLock} from '../cross-chain-order/hash-lock'
